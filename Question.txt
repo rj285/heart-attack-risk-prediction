@@ -1,0 +1,13 @@
+create a simple project based on basic multiple linear regression model 
+data should be realtime ,and minimum 15 to 20 patient data should be there
+find out the normal Troponin , blood pressure,Cholesterol,range 
+
+
+Example :
+data = {
+    'Troponin (ng/mL)': [0.5, 1.2, 0.8, 2.0, 1.5],
+    'Age (years)': [45, 55, 60, 50, 65],
+    'Blood Pressure (mmHg)': [120, 130, 140, 125, 135],
+    'Cholesterol (mg/dL)': [200, 220, 240, 200, 230],
+    'Chance of Heart Attack (%)': [10, 20, 15, 25, 30]
+}
